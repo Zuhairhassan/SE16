@@ -3,8 +3,7 @@ public class student {
 public static void main(String[]arg)
 {
 	
-	System.out.println("this is student");
-   System.out.println("this is student1");
-   
+	
+   System.out.println("in ka name nahe ha ");
 }
 }
